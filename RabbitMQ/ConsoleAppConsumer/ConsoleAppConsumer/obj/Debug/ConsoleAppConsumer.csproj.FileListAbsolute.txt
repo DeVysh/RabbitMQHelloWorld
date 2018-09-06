@@ -1,0 +1,10 @@
+C:\Vyshakh\JBHIFI\Development\Poc\RabbitMQ\ConsoleAppConsumer\ConsoleAppConsumer\bin\Debug\ConsoleAppConsumer.exe.config
+C:\Vyshakh\JBHIFI\Development\Poc\RabbitMQ\ConsoleAppConsumer\ConsoleAppConsumer\bin\Debug\ConsoleAppConsumer.exe
+C:\Vyshakh\JBHIFI\Development\Poc\RabbitMQ\ConsoleAppConsumer\ConsoleAppConsumer\bin\Debug\ConsoleAppConsumer.pdb
+C:\Vyshakh\JBHIFI\Development\Poc\RabbitMQ\ConsoleAppConsumer\ConsoleAppConsumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Vyshakh\JBHIFI\Development\Poc\RabbitMQ\ConsoleAppConsumer\ConsoleAppConsumer\bin\Debug\RabbitMQ.Client.dll
+C:\Vyshakh\JBHIFI\Development\Poc\RabbitMQ\ConsoleAppConsumer\ConsoleAppConsumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Vyshakh\JBHIFI\Development\Poc\RabbitMQ\ConsoleAppConsumer\ConsoleAppConsumer\bin\Debug\RabbitMQ.Client.xml
+C:\Vyshakh\JBHIFI\Development\Poc\RabbitMQ\ConsoleAppConsumer\ConsoleAppConsumer\obj\Debug\ConsoleAppConsumer.csprojResolveAssemblyReference.cache
+C:\Vyshakh\JBHIFI\Development\Poc\RabbitMQ\ConsoleAppConsumer\ConsoleAppConsumer\obj\Debug\ConsoleAppConsumer.exe
+C:\Vyshakh\JBHIFI\Development\Poc\RabbitMQ\ConsoleAppConsumer\ConsoleAppConsumer\obj\Debug\ConsoleAppConsumer.pdb
